@@ -1,5 +1,5 @@
 # Orpheus-TTS-Quick-Python-Implementation
-I first tried to run the TTS system on Google Colabs because there was a direct link on Orpheus site https://canopylabs.ai/model-releases but Colab crashed because of ram overflow.
+I first tried to run the TTS system on Google Colabs because there was a direct link on the Orpheus site https://canopylabs.ai/model-releases but Colab crashed because of ram overflow.
 
 I than simply run it on my laptop 16GB RAM and 8 GB VRAM 3080 Laptop GPU and it worked great. I had to slightly modify the colab script to make it work in visual studio code. 
 
