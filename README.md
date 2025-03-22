@@ -3,7 +3,7 @@ I first tried to run the Orpheus TTS system on Google Colabs because there was a
 
 I than simply run it on my laptop 16GB RAM and 8 GB VRAM 3080 Laptop GPU and it worked great. I had to slightly modify the colab script to make it work in visual studio code. 
 
-Only needs one file to run and the following installs:
+Only needs one file orpheus_TTS.py to run and the following installs:
 
 pip install torch transformers huggingface_hub numpy soundfile snac ipywebrtc
 
