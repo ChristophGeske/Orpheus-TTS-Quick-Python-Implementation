@@ -9,5 +9,5 @@ pip install torch transformers huggingface_hub numpy soundfile snac ipywebrtc
 
 Make sure to replace the placeholder with your Hugging Face token, which you can find under Settings → Tokens in your free Hugging Face account.
 
-The model download takes a while—around 30–60 minutes for the roughly 15GB model. Generation time is not real-time, taking about 30 seconds on my low-spec laptop, but the output sounds incredible.
+The model download takes a while—around 30–60 minutes for the roughly 15GB model. Generation time is not real-time, taking about 30 seconds on my low-spec laptop (Looking at my task-manager I think it ignores my 8GB GPU and runs on CPU and the 16GB RAM instead), but the output sounds incredible good.
 
